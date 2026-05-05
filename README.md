@@ -76,7 +76,7 @@ The deck is structured as a single-page, non-linear experience. Users control th
 | **Path Selector** | Personalises the experience — Retail / Events / Sponsorship before the user scrolls. |
 | **Why The Avenues** | Data-driven property overview. Stats, location, awards, certifications. |
 | **12 Districts** | Interactive district explorer. All 12 verified districts with descriptions and enquiry CTAs. |
-| **Luxury (Prestige)** | Full-bleed video section for the Prestige district and Waldorf Astoria adjacency. |
+| **Luxury (Prestige)** | Full-bleed video section for the Prestige district. |
 | **Dining & Lifestyle** | Hover-reveal cards + background video strip. |
 | **Attractions** | Cinescape, Grand Plaza, SuperPark, Forum Circus  all verified. |
 | **Brand Presence** | Tabbed event/activation module with venue chips and enquiry CTA. |
