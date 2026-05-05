@@ -2,7 +2,7 @@
 
 > A cinematic, browser-based sales tool for The Avenues Kuwait — built for the Liat AI screening assignment.
 
-**Live URL:** `[your-deployed-url-here]`  
+**Live URL:** https://mall-screening-assignment-eight.vercel.app/
 **Subject Property:** The Avenues Kuwait 
 **Built for:** Prospective retail tenants, corporate sponsors, and event partners
 
@@ -35,7 +35,7 @@ The tool replaces the fragmented process of pulling up YouTube videos, flipping 
 | Animation | [Framer Motion](https://www.framer.com/motion/) |
 | Language | JavaScript (JSX) |
 | Font | Geist (via `next/font`) |
-| Deployment | GitHub Pages  |
+| Deployment | Vercel  |
 
 ---
 
